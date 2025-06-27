@@ -1,3 +1,4 @@
 [submodule "GitTestFiglio1Lib"]
 	path = GitTestFiglio1Lib
 	url = https://github.com/zioIgna/GitTestFiglio1Lib.git
+	branch = ramo-3
